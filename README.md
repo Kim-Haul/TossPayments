@@ -11,6 +11,9 @@ $ yarn add @tosspayments/payment-sdk
 https://docs.tosspayments.com/reference/test/v1/payments/confirm/POST
 https://docs.tosspayments.com/reference/js-sdk
 https://ws-pace.tistory.com/226?category=1010992
+
+// Base64 인코딩&디코딩
+https://www.convertstring.com/ko/EncodeDecode/Base64Decode
 ```
 
 ![screenshot](./public/capture.png)

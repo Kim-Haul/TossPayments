@@ -13,7 +13,7 @@ const Payment = () => {
       // 카드 결제 메서드 실행
       tossPayments
         .requestPayment('카드', {
-          amount: 4999, // 가격
+          amount: 11000000, // 가격
           orderId: `${randomId}`, // 주문 id
           orderName: `3개월 정기 구독권`, // 결제 이름
           customerName: '테스트', // 판매자, 판매처 이름
